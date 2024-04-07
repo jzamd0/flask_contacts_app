@@ -1,0 +1,6 @@
+CREATE TABLE contact (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fullname VARCHAR(255) NOT NULL,
+    phone VARCHAR(64) NULL,
+    email VARCHAR(255) NULL
+);
