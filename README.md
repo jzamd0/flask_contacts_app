@@ -2,3 +2,5 @@
 
 Flask contacts web app from the tutorial
 [Python Flask and Mysql Web Application | Practical Example](https://www.youtube.com/watch?v=IgCfZkR8wME).
+
+![App Main Window](screenshot.png)
